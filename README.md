@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://cdn.openart.ai/stable_diffusion/1a0693bb3b0c2002bc494d0d95c5a6e2ef9b4845_2000x2000.webp))
+![alt text]([https://cdn.openart.ai/stable_diffusion/1a0693bb3b0c2002bc494d0d95c5a6e2ef9b4845_2000x2000.webp])
 
 <h1 align="center">Hi 👋, I'm Taetiya Taechamatavorn</h1>
 <h3 align="center">A junior researcher specialized in NLP</h3>
