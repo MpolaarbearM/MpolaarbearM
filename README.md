@@ -1,4 +1,4 @@
-![alt text]([https://cdn.openart.ai/stable_diffusion/1a0693bb3b0c2002bc494d0d95c5a6e2ef9b4845_2000x2000.webp])
+![image](https://drive.google.com/uc?export=view&id=1BgbczpKhAEV4Efei0VSlkYJ_vfoxDlfH)
 
 <h1 align="center">Hi 👋, I'm Taetiya Taechamatavorn</h1>
 <h3 align="center">A junior researcher specialized in NLP</h3>
