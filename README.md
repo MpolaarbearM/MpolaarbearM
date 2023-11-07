@@ -1,4 +1,5 @@
-![image](https://drive.google.com/uc?export=view&id=1BgbczpKhAEV4Efei0VSlkYJ_vfoxDlfH)
+![image](https://drive.google.com/uc?export=view&id=1U0fTh3ncoott7tvh4L-ZRsRiN-8jTicW)
+
 
 <h1 align="center">Hi 👋, I'm Taetiya Taechamatavorn</h1>
 <h3 align="center">A junior researcher specialized in NLP</h3>
